@@ -1,16 +1,22 @@
 ## Hi, I'm Melissa 🖖
 
-I just graduated the [neuefische coding bootcamp](https://www.neuefische.de/). 
+I’m a **Full Stack Developer** with **4 years of experience**, passionate about building intuitive and creative digital products.  
+My main focus lies in **TypeScript**, **React**, and **PHP/Symfony**, but I enjoy working across the entire stack.
 
-In this time I learned a lot about HTML, CSS, JavaScript, Testing, React, node.js, MongoDB and a lot of more interesting stuff. 🤓
+I love solving complex problems with clean code, learning new technologies, and bringing a touch of creativity to everything I build.
 
- 🌱 I’m currently learning and practicing by working on my capstone-project (coucou!). 
+💡 From my start at the [neuefische coding bootcamp](https://www.neuefische.de/) to now, it’s been a journey full of curiosity, growth, and a lot of code.  
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissaceleste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=melissaceleste)](https://github.com/anuraghazra/github-readme-stats)
+🌱 Currently expanding my skills in **advanced frontend architecture** and exploring **design systems**.
 
+---
 
-## How to contact me 🕊
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melissaceleste&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaceleste&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
- [<img style="display: inline; margin-left: 70px;" src="./linkedin.png" width="50px">](https://www.linkedin.com/in/melissa-gries-8005821a5/)[<img style="display: inline; margin: 10px;" src="./xing.png" width="50px">](https://www.xing.com/profile/MelissaCeleste_Gries)
+---
 
+## Let's connect 🕊
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melissa%20Gries-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melissa-gries-8005821a5/)  
+[![Xing](https://img.shields.io/badge/Xing-Melissa%20Gries-green?style=for-the-badge&logo=xing)](https://www.xing.com/profile/MelissaCeleste_Gries)
